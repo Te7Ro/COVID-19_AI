@@ -1,0 +1,70 @@
+Stay-at-home orders*for the general population*(theseare enforced and*also referred to*as lockdown)
+Regional stay-at-home*orders for the general*population at least*in one region (these*are enforced and also*referred to as lockdown)
+Stay-at-home*recommendations for*the general population*(which are voluntary*or not enforced)
+Stay-at-home*recommendations for*risk groups or vulnerable*populations (such*as the elderly, people*with underlying health*conditions, physically*disabled people, etc.)
+Social circle/bubble*to limit social*contacts e.g. to*limited number of households
+Restrictions on*private gatherings
+Closure of educational*institutions: daycare*or nursery.
+Closure of educational*institutions: primary*schools.
+Closure of educational*institutions: secondary*schools.
+Closure of educational*institutions: higher*education.
+Interventions are in*place to limit mass/public*gatherings (any interventions*on mass gatherings*up to 1000 participants*included)
+Interventions are in*place to limit all*indoor/outdoor mass/public*gatherings
+Interventions are in*place to limit indoor*mass/public gatherings*of over 50 participants
+Interventions are in*place to limit indoor*mass/public gatherings*of over 100 participants
+Interventions are in*place to limit indoor*mass/public gatherings*of over 500 participants
+Interventions are in*place to limit indoor*mass/public gatherings*of over 1000 participants
+Interventions are in*place to limit outdoor*mass/public gatherings*of over 50 participants
+Interventions are in*place to limit outdoor*mass/public gatherings*of over 100 participants
+Interventions are in*place to limit outdoor*mass/public gatherings*of over 500 participants
+Interventions are in*place to limit outdoor*mass/public gatherings*of over 1000 participants
+Closure of public*spaces of any kind*(including restaurants,*entertainment venues,*non-essential shops,*partial or full closure*of public transport,*gyms and sport centers, etc).
+Closure of entertainment*venues
+Closure of public*transport
+Closure of gyms/sports*centres
+Closure of*hotels/accommodation*services
+Closures of non-essential*shops
+Closure of places of*worship
+Closure of restaurants*and cafes/bars
+Protective mask use in*all public spaces on*voluntary basis (general*recommendation not enforced)
+Protective mask use in*closed public spaces/transport*on voluntary basis (general*recommendation not enforced)
+Protective mask use in*all public spaces on*mandatory basis*(enforced by law)
+Protective mask use in*closed public spaces/transport*on mandatory basis (enforced*by law)
+Teleworking recommendation
+Adaptation of workplaces*(e.g. to reduce risk of*transmission)
+Closures of workplaces
+Stay-at-home orders for the*general population*(these are enforced and also*referred to as ‘lockdown’) - partially relaxed measure
+Regional stay-at-home orders*for the general*population at least in one region*(these are enforced and also referred to as lockdown) - partially relaxed measure
+Stay-at-home recommendations*for the general*population (which are voluntary*or not enforced) - partially*relaxed measure
+Stay-at-home recommendations*for risk groups*or vulnerable populations*(such as the elderly, people*with underlying health conditions,*physically disabled people,*etc.)-partially relaxed measure
+Social circle/bubble to*limit social contacts*e.g. to limited number of*households - partially relaxed measure
+Restrictions on private*gatherings - partially*relaxed measure
+Closure of educational*institutions: daycare or*nursery - partially*relaxed measure
+Closure of educational*institutions: primary*schools - partially*relaxed measure
+Closure of educational*institutions: secondary*schools - partially*relaxed measure
+Closure of educational*institutions: higher*education - partially*relaxed measure
+Interventions are in place*to limit mass/public*gatherings (any interventions*on mass gatherings*up to 1000 participants*included) - partially relaxed*measure
+Interventions are in place*to limit all indoor/outdoor*mass/public gathering*partially relaxed measure
+Interventions are in place*to limit indoor mass/public*gatherings of over 50*participants - partially relaxed*measure
+Interventions are in place*to limit indoor mass/public*gatherings of over 100*participants - partially relaxed*measure
+Interventions are in place*to limit indoor mass/public*gatherings of over 500*participants - partially relaxed*measure
+Interventions are in place*to limit indoor mass/public*gatherings of over 1000*participants - partially relaxed*measure
+Interventions are in place*to limit outdoor mass/public*gatherings of over 50*participants - partially relaxed*measure
+Interventions are in place*to limit outdoor mass/public*gatherings of over 100*participants - partially relaxed*measure
+Interventions are in place*to limit outdoor mass/public*gatherings of over 500*participants - partially relaxed*measure
+Interventions are in place*to limit outdoor mass/public*gatherings of over 1000*participants - partially relaxed*measure
+Closure of public spaces*of any kind (including restaurants,*entertainment venues, non-essential*shops, partial or full closure*of public transport, gyms*and sport centers etc)*partially relaxed measure
+Closure of entertainment venues*partially relaxed measure
+Closure of public transport*partially relaxed measure
+Closure of gyms/sports*centres - partially relaxed*measure
+Closure of hotels/accommodation*services - partially relaxed*measure
+Closures of non-essential*shops - partially relaxed*measure
+Closure of places of*worship - partially relaxed*measure
+Closure of restaurants*and cafes/bars - partially*relaxed measure
+Protective mask use in*all public spaces on voluntary*basis (general recommendation not*enforced) - partially relaxed*measure
+Protective mask use in*closed public spaces/transport*on voluntary basis (general recommendation*not enforced)*partially relaxed measure
+Protective mask use in*all public spaces on mandatory*basis (enforced by law) - partially*relaxed measure
+Protective mask use in*closed public spaces/transport*on mandatory basis (enforced by law)*partially relaxed measure
+Teleworking recommendation*or workplace closures - partially relaxed*measure
+Adaptation of workplaces*(e.g. to reduce risk of transmission)*partially relaxed measure
+Closures of workplaces*partially relaxed measure
